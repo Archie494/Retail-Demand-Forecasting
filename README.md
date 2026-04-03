@@ -45,3 +45,11 @@ The original dataset is not currently included in this repository unless explici
 
 ## Outcome
 This project demonstrates practical experience in machine learning, regression modeling, feature engineering, and data-driven decision making for retail demand forecasting.
+
+## Sample Visualizations
+
+### Actual vs Predicted
+![Actual vs Predicted](images/actual_vs_predicted_rf_vs_xgboost.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance_random_forest_ranked.png)
